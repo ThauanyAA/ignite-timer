@@ -69,14 +69,6 @@ export const HistoryList = styled.div`
       }
     }
   }
-  
-  /* display: grid;
-  gap: 1.5rem;
-  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
-  
-  @media (max-width: 768px) {
-    grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
-  } */
 `;
 
 export const Status = styled.span<StatusProps>`

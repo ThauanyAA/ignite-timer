@@ -52,6 +52,8 @@ export function CyclesContextProvider({ children }: CyclesContextProviderProps) 
       }
       return cycle
     }))
+    setAmountSecondsPassed(0)
+    setActiveCycleId(null)  
   }
 
   function createNewCycle(data: CreateCycleData) {

@@ -36,22 +36,22 @@ O layout da aplicação está disponível no Figma:
 
 ## 🚀 Como executar
 
-# Clone o repositório
+### Clone o repositório
 ```bash
 git clone https://github.com/seuusuario/ignite-timer.git
 cd ignite-timer
 ```
 
-# Instale as dependências
+### Instale as dependências
 ```bash
 npm install
 ```
 
-# Inicie o servidor de desenvolvimento
+### Inicie o servidor de desenvolvimento
 ```bash
 npm run dev
 ```
 
-# Acesse http://localhost:5173 no seu navegador.
+### Acesse http://localhost:5173 no seu navegador.
 
 Feito com 💙 durante os estudos na Rocketseat 🚀

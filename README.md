@@ -28,19 +28,30 @@ Ignite Timer é uma aplicação desenvolvida durante o módulo Criando SPAs com 
 - **Home:** formulário para criação de novos ciclos + countdown do ciclo atual
 - **Histórico:** lista dos ciclos registrados com status e horários
 
+## 🎨 Design
+
+O layout da aplicação está disponível no Figma:
+
+👉 [Ignite Timer - Figma](https://www.figma.com/community/file/1127351821076435124)
+
 ## 🚀 Como executar
-```bash
+
 # Clone o repositório
+```bash
 git clone https://github.com/seuusuario/ignite-timer.git
 cd ignite-timer
+```
 
 # Instale as dependências
+```bash
 npm install
+```
 
 # Inicie o servidor de desenvolvimento
+```bash
 npm run dev
 ```
 
-- Acesse http://localhost:5173 no seu navegador.
+# Acesse http://localhost:5173 no seu navegador.
 
 Feito com 💙 durante os estudos na Rocketseat 🚀

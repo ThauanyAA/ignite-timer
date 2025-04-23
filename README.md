@@ -2,7 +2,7 @@
 
 Ignite Timer é uma aplicação desenvolvida durante o módulo Criando SPAs com ReactJS e TypeScript da Rocketseat. Seu objetivo é auxiliar no gerenciamento de ciclos de estudo ou trabalho, implementando conceitos fundamentais do React moderno.
 
-![Home](./screenshots/home.png)
+![Home](./public/screenshots/home.png)
 
 ## ✨ Funcionalidades
 
@@ -11,8 +11,8 @@ Ignite Timer é uma aplicação desenvolvida durante o módulo Criando SPAs com 
 - Histórico com status de cada ciclo (concluído, interrompido, em andamento)
 - Armazenamento persistente dos ciclos usando `localStorage`
 
-![Formulário](./screenshots/form.png)
-![Histórico](./screenshots/history.png)
+![Formulário](./public/screenshots/form.png)
+![Histórico](./public/screenshots/history.png)
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
 
